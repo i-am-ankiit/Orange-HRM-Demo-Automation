@@ -1,0 +1,586 @@
+2025-12-07 21:18:41 [main] INFO  BaseClass - Configuration properties loaded successfully.
+2025-12-07 21:18:46 [main] INFO  BaseClass - Chrome browser launched.
+2025-12-07 21:18:54 [main] INFO  BaseClass - Test environment setup completed.
+2025-12-07 21:18:54 [main] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-07 21:18:54 [main] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-07 21:18:54 [main] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-07 21:18:54 [main] INFO  BaseClass - ActionDriver initialized in BaseClass.
+2025-12-07 21:18:54 [main] INFO  ActionDriver - Typed value 'Admin' in element: By.name: username
+2025-12-07 21:18:54 [main] INFO  ActionDriver - Typed value 'admin123' in element: By.cssSelector: input[type='password']
+2025-12-07 21:18:55 [main] INFO  ActionDriver - Clicked on element: By.xpath: //button[text()=" Login "]
+2025-12-07 21:18:56 [main] INFO  ActionDriver - Clicked on element: By.className: oxd-userdropdown-name
+2025-12-07 21:18:57 [main] INFO  ActionDriver - Clicked on element: By.xpath: //a[text()='Logout']
+2025-12-07 21:19:09 [main] INFO  BaseClass - test environment teardown
+2025-12-07 21:20:33 [main] INFO  BaseClass - Configuration properties loaded successfully.
+2025-12-07 21:20:37 [main] INFO  BaseClass - Chrome browser launched.
+2025-12-07 21:20:45 [main] INFO  BaseClass - Test environment setup completed.
+2025-12-07 21:20:45 [main] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-07 21:20:45 [main] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-07 21:20:45 [main] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-07 21:20:45 [main] INFO  BaseClass - ActionDriver initialized in BaseClass.
+2025-12-07 21:20:45 [main] INFO  ActionDriver - Typed value 'Admin' in element: By.name: username
+2025-12-07 21:20:45 [main] INFO  ActionDriver - Typed value 'wrongpassword' in element: By.cssSelector: input[type='password']
+2025-12-07 21:20:45 [main] INFO  ActionDriver - Clicked on element: By.xpath: //button[text()=" Login "]
+2025-12-07 21:20:47 [main] INFO  BaseClass - test environment teardown
+2025-12-07 21:20:50 [main] INFO  BaseClass - Chrome browser launched.
+2025-12-07 21:20:58 [main] INFO  BaseClass - Test environment setup completed.
+2025-12-07 21:20:58 [main] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-07 21:20:58 [main] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-07 21:20:58 [main] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-07 21:20:58 [main] INFO  BaseClass - ActionDriver initialized in BaseClass.
+2025-12-07 21:20:58 [main] INFO  ActionDriver - Typed value 'Admin' in element: By.name: username
+2025-12-07 21:20:58 [main] INFO  ActionDriver - Typed value 'admin123' in element: By.cssSelector: input[type='password']
+2025-12-07 21:20:58 [main] INFO  ActionDriver - Clicked on element: By.xpath: //button[text()=" Login "]
+2025-12-07 21:21:00 [main] INFO  ActionDriver - Clicked on element: By.className: oxd-userdropdown-name
+2025-12-07 21:21:02 [main] INFO  ActionDriver - Clicked on element: By.xpath: //a[text()='Logout']
+2025-12-07 21:21:08 [main] INFO  BaseClass - test environment teardown
+2025-12-07 21:22:54 [main] INFO  BaseClass - Configuration properties loaded successfully.
+2025-12-07 21:22:57 [main] INFO  BaseClass - Chrome browser launched.
+2025-12-07 21:23:04 [main] INFO  BaseClass - Test environment setup completed.
+2025-12-07 21:23:04 [main] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-07 21:23:04 [main] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-07 21:23:04 [main] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-07 21:23:04 [main] INFO  BaseClass - ActionDriver initialized in BaseClass.
+2025-12-07 21:23:05 [main] INFO  ActionDriver - Typed value 'Admin' in element: By.name: username
+2025-12-07 21:23:05 [main] INFO  ActionDriver - Typed value 'wrongpassword' in element: By.cssSelector: input[type='password']
+2025-12-07 21:23:05 [main] INFO  ActionDriver - Clicked on element: By.xpath: //button[text()=" Login "]
+2025-12-07 21:23:07 [main] INFO  BaseClass - test environment teardown
+2025-12-07 21:38:25 [main] INFO  BaseClass - Configuration properties loaded successfully.
+2025-12-07 21:38:26 [main] INFO  BaseClass - Chrome browser launched.
+2025-12-07 21:38:34 [main] INFO  BaseClass - Test environment setup completed.
+2025-12-07 21:38:34 [main] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-07 21:38:34 [main] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-07 21:38:34 [main] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-07 21:38:34 [main] INFO  BaseClass - ActionDriver initialized in BaseClass.
+2025-12-07 21:38:35 [main] INFO  ActionDriver - Typed value 'Admin' in element: By.name: username
+2025-12-07 21:38:35 [main] INFO  ActionDriver - Typed value 'admin' in element: By.cssSelector: input[type='password']
+2025-12-07 21:38:35 [main] INFO  ActionDriver - Clicked on element: By.xpath: //button[text()=" Login "]
+2025-12-07 21:38:36 [main] INFO  BaseClass - test environment teardown
+2025-12-07 22:35:59 [main] INFO  BaseClass - Configuration properties loaded successfully.
+2025-12-07 22:36:01 [main] INFO  BaseClass - Chrome browser launched.
+2025-12-07 22:36:09 [main] INFO  BaseClass - Test environment setup completed.
+2025-12-07 22:36:09 [main] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-07 22:36:09 [main] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-07 22:36:09 [main] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-07 22:36:09 [main] INFO  BaseClass - ActionDriver initialized in BaseClass.
+2025-12-07 22:36:09 [main] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-07 22:36:09 [main] INFO  ActionDriver - Typed value 'admin' in input field: Element with name: password
+2025-12-07 22:36:09 [main] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-07 22:36:10 [main] INFO  ActionDriver - Element is displayed: Element with text: Invalid credentials
+2025-12-07 22:36:11 [main] INFO  BaseClass - test environment teardown
+2025-12-07 22:36:12 [main] INFO  BaseClass - Chrome browser launched.
+2025-12-07 22:36:19 [main] INFO  BaseClass - Test environment setup completed.
+2025-12-07 22:36:19 [main] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-07 22:36:19 [main] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-07 22:36:19 [main] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-07 22:36:19 [main] INFO  BaseClass - ActionDriver initialized in BaseClass.
+2025-12-07 22:36:19 [main] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-07 22:36:19 [main] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-07 22:36:19 [main] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-07 22:36:21 [main] INFO  ActionDriver - Element is displayed: Element with text: Admin
+2025-12-07 22:36:21 [main] INFO  ActionDriver - Clicked on element: Element with text: fbadbcdbffmichalmichalmichal c...
+2025-12-07 22:36:22 [main] INFO  ActionDriver - Clicked on element: Element with class: oxd-userdropdown-link
+2025-12-07 22:36:28 [main] INFO  BaseClass - test environment teardown
+2025-12-13 12:46:37 [main] INFO  BaseClass - Configuration properties loaded successfully.
+2025-12-13 12:46:42 [main] INFO  BaseClass - Chrome browser launched.
+2025-12-13 12:46:50 [main] INFO  BaseClass - Test environment setup completed.
+2025-12-13 12:46:50 [main] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 12:46:50 [main] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 12:46:50 [main] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 12:46:50 [main] INFO  BaseClass - ActionDriver initialized in BaseClass.
+2025-12-13 12:46:50 [main] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 12:46:50 [main] INFO  ActionDriver - Typed value 'admin' in input field: Element with name: password
+2025-12-13 12:46:50 [main] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 12:46:52 [main] INFO  ActionDriver - Element is displayed: Element with text: Invalid credentials
+2025-12-13 12:46:52 [main] INFO  BaseClass - test environment teardown
+2025-12-13 12:46:53 [main] INFO  BaseClass - Chrome browser launched.
+2025-12-13 12:47:00 [main] INFO  BaseClass - Test environment setup completed.
+2025-12-13 12:47:00 [main] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 12:47:00 [main] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 12:47:00 [main] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 12:47:00 [main] INFO  BaseClass - ActionDriver initialized in BaseClass.
+2025-12-13 12:47:01 [main] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 12:47:01 [main] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-13 12:47:01 [main] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 12:47:02 [main] INFO  ActionDriver - Element is displayed: Element with text: Admin
+2025-12-13 12:47:03 [main] INFO  ActionDriver - Clicked on element: Element with text: agxv hbffha
+2025-12-13 12:47:04 [main] INFO  ActionDriver - Clicked on element: Element with text: Logout
+2025-12-13 12:47:10 [main] INFO  BaseClass - test environment teardown
+2025-12-13 13:19:30 [main] INFO  BaseClass - Configuration properties loaded successfully.
+2025-12-13 13:19:33 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:19:33 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:19:33 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:19:33 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:19:41 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:19:41 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:19:41 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:19:41 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:19:41 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-test-OrangeHRMTest-2
+2025-12-13 13:19:41 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:19:41 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:19:41 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:19:41 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:19:41 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - test environment teardown
+2025-12-13 13:19:42 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:19:42 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:19:42 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:19:42 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:19:42 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-test-OrangeHRMTest-4
+2025-12-13 13:19:42 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:19:42 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:19:42 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:19:42 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:22:41 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - test environment teardown
+2025-12-13 13:35:17 [main] INFO  BaseClass - Configuration properties loaded successfully.
+2025-12-13 13:35:20 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:35:20 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:35:21 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:35:21 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:35:28 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:35:28 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:35:28 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:35:28 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:35:28 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-test-OrangeHRMTest-2
+2025-12-13 13:35:28 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:35:28 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:35:28 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:35:28 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:35:28 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-test-OrangeHRMTest-4
+2025-12-13 13:35:28 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - test environment teardown
+2025-12-13 13:35:28 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 13:35:28 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-test-OrangeHRMTest-1
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-test-OrangeHRMTest-3
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - test environment teardown
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'admin' in input field: Element with name: password
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 13:35:30 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed: Element with tag name: img
+2025-12-13 13:35:30 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - test environment teardown
+2025-12-13 13:35:30 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed: Element with text: Invalid credentials
+2025-12-13 13:35:31 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - test environment teardown
+2025-12-13 13:35:31 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:35:40 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:35:40 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:35:40 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:35:40 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:35:40 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-test-OrangeHRMTest-3
+2025-12-13 13:35:40 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 13:35:40 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-13 13:35:40 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 13:35:42 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed: Element with text: Admin
+2025-12-13 13:35:42 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: manda user
+2025-12-13 13:35:43 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with class: oxd-userdropdown-link
+2025-12-13 13:35:48 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - test environment teardown
+2025-12-13 13:36:44 [main] INFO  BaseClass - Configuration properties loaded successfully.
+2025-12-13 13:36:46 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:36:46 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:36:46 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:36:46 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:36:52 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:36:52 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:36:52 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:36:52 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:36:52 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-test-OrangeHRMTest-4
+2025-12-13 13:36:52 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:36:52 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:36:52 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:36:52 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:36:52 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-test-OrangeHRMTest-2
+2025-12-13 13:36:53 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 13:36:53 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - test environment teardown
+2025-12-13 13:36:53 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-13 13:36:53 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 13:36:54 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:36:54 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:36:54 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:36:54 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:36:54 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-test-OrangeHRMTest-1
+2025-12-13 13:36:54 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - test environment teardown
+2025-12-13 13:36:54 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:36:54 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:36:54 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:36:54 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:36:54 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-test-OrangeHRMTest-3
+2025-12-13 13:36:54 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed: Element with tag name: img
+2025-12-13 13:36:55 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 13:36:55 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - test environment teardown
+2025-12-13 13:36:55 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'admin' in input field: Element with name: password
+2025-12-13 13:36:55 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 13:36:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed: Element with text: Invalid credentials
+2025-12-13 13:36:56 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - test environment teardown
+2025-12-13 13:36:57 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:37:05 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:37:05 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:37:05 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:37:05 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:37:05 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-test-OrangeHRMTest-3
+2025-12-13 13:37:05 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 13:37:05 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-13 13:37:05 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 13:37:07 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed: Element with text: Admin
+2025-12-13 13:37:07 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: manda user
+2025-12-13 13:37:08 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with class: oxd-userdropdown-link
+2025-12-13 13:37:13 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - test environment teardown
+2025-12-13 13:38:30 [main] INFO  BaseClass - Configuration properties loaded successfully.
+2025-12-13 13:38:31 [TestNG-tests-1] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:38:39 [TestNG-tests-1] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:38:39 [TestNG-tests-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:38:39 [TestNG-tests-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:38:39 [TestNG-tests-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:38:39 [TestNG-tests-1] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-tests-1
+2025-12-13 13:38:39 [TestNG-tests-1] INFO  BaseClass - test environment teardown
+2025-12-13 13:38:40 [TestNG-tests-1] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:38:48 [TestNG-tests-1] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:38:48 [TestNG-tests-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:38:48 [TestNG-tests-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:38:48 [TestNG-tests-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:38:48 [TestNG-tests-1] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-tests-1
+2025-12-13 13:38:48 [TestNG-tests-1] INFO  BaseClass - test environment teardown
+2025-12-13 13:38:49 [TestNG-tests-1] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:38:57 [TestNG-tests-1] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:38:57 [TestNG-tests-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:38:57 [TestNG-tests-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:38:57 [TestNG-tests-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:38:57 [TestNG-tests-1] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-tests-1
+2025-12-13 13:38:57 [TestNG-tests-1] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 13:38:57 [TestNG-tests-1] INFO  ActionDriver - Typed value 'admin' in input field: Element with name: password
+2025-12-13 13:38:57 [TestNG-tests-1] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 13:39:00 [TestNG-tests-1] INFO  ActionDriver - Element is displayed: Element with text: Invalid credentials
+2025-12-13 13:39:00 [TestNG-tests-1] INFO  BaseClass - test environment teardown
+2025-12-13 13:39:01 [TestNG-tests-1] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:39:08 [TestNG-tests-1] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:39:08 [TestNG-tests-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:39:08 [TestNG-tests-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:39:08 [TestNG-tests-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:39:08 [TestNG-tests-1] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-tests-1
+2025-12-13 13:39:08 [TestNG-tests-1] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 13:39:08 [TestNG-tests-1] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-13 13:39:08 [TestNG-tests-1] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 13:39:10 [TestNG-tests-1] INFO  ActionDriver - Element is displayed: Element with text: Admin
+2025-12-13 13:39:10 [TestNG-tests-1] INFO  ActionDriver - Clicked on element: Element with text: manda user
+2025-12-13 13:39:11 [TestNG-tests-1] INFO  ActionDriver - Clicked on element: Element with class: oxd-userdropdown-link
+2025-12-13 13:39:17 [TestNG-tests-1] INFO  BaseClass - test environment teardown
+2025-12-13 13:39:17 [TestNG-tests-1] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:39:25 [TestNG-tests-1] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:39:25 [TestNG-tests-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:39:25 [TestNG-tests-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:39:25 [TestNG-tests-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:39:25 [TestNG-tests-1] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-tests-1
+2025-12-13 13:39:25 [TestNG-tests-1] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 13:39:25 [TestNG-tests-1] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-13 13:39:25 [TestNG-tests-1] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 13:39:27 [TestNG-tests-1] INFO  ActionDriver - Element is displayed: Element with tag name: img
+2025-12-13 13:39:27 [TestNG-tests-1] INFO  BaseClass - test environment teardown
+2025-12-13 13:41:27 [main] INFO  BaseClass - Configuration properties loaded successfully.
+2025-12-13 13:41:30 [TestNG-test-OrangeHRMTest-5] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:41:30 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:41:30 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:41:31 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:41:31 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Chrome browser launched.
+2025-12-13 13:41:36 [TestNG-test-OrangeHRMTest-5] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:41:36 [TestNG-test-OrangeHRMTest-5] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:41:36 [TestNG-test-OrangeHRMTest-5] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:41:36 [TestNG-test-OrangeHRMTest-5] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:41:36 [TestNG-test-OrangeHRMTest-5] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-test-OrangeHRMTest-5
+2025-12-13 13:41:36 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:41:36 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:41:36 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:41:36 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:41:36 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-test-OrangeHRMTest-2
+2025-12-13 13:41:45 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:41:45 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:41:45 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:41:45 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:41:45 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-test-OrangeHRMTest-1
+2025-12-13 13:41:45 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - test environment teardown
+2025-12-13 13:41:52 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - test environment teardown
+2025-12-13 13:41:52 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 13:41:53 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-13 13:41:53 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 13:41:54 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Element is displayed: Element with tag name: img
+2025-12-13 13:41:55 [TestNG-test-OrangeHRMTest-5] INFO  BaseClass - test environment teardown
+2025-12-13 13:41:56 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:41:56 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:41:56 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:41:56 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:41:56 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-test-OrangeHRMTest-4
+2025-12-13 13:41:56 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 13:41:56 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-13 13:41:56 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 13:41:57 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed: Element with text: Admin
+2025-12-13 13:41:58 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Clicked on element: Element with text: manda user
+2025-12-13 13:41:59 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Test environment setup completed.
+2025-12-13 13:41:59 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 13:41:59 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 13:41:59 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 13:41:59 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized in BaseClass.TestNG-test-OrangeHRMTest-3
+2025-12-13 13:41:59 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 13:41:59 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'admin' in input field: Element with name: password
+2025-12-13 13:41:59 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 13:42:00 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Clicked on element: Element with class: oxd-userdropdown-link
+2025-12-13 13:42:01 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed: Element with text: Invalid credentials
+2025-12-13 13:42:01 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - test environment teardown
+2025-12-13 13:42:05 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - test environment teardown
+2025-12-13 14:08:47 [main] INFO  BaseClass - Configuration properties loaded successfully.
+2025-12-13 14:08:53 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Edge browser launched.
+2025-12-13 14:08:53 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Edge browser launched.
+2025-12-13 14:08:53 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Edge browser launched.
+2025-12-13 14:08:53 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Edge browser launched.
+2025-12-13 14:08:54 [TestNG-test-OrangeHRMTest-5] INFO  BaseClass - Edge browser launched.
+2025-12-13 14:09:01 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Test environment setup completed.
+2025-12-13 14:09:01 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 14:09:01 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 14:09:01 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 14:09:01 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initialized in BaseClass.24
+2025-12-13 14:09:01 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Test environment setup completed.
+2025-12-13 14:09:01 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 14:09:01 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 14:09:01 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 14:09:01 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized in BaseClass.23
+2025-12-13 14:09:02 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 14:09:02 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 14:09:02 [TestNG-test-OrangeHRMTest-5] INFO  BaseClass - Test environment setup completed.
+2025-12-13 14:09:02 [TestNG-test-OrangeHRMTest-5] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 14:09:02 [TestNG-test-OrangeHRMTest-5] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 14:09:02 [TestNG-test-OrangeHRMTest-5] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 14:09:02 [TestNG-test-OrangeHRMTest-5] INFO  BaseClass - ActionDriver initialized in BaseClass.25
+2025-12-13 14:09:02 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-13 14:09:02 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'admin' in input field: Element with name: password
+2025-12-13 14:09:02 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 14:09:03 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Test environment setup completed.
+2025-12-13 14:09:03 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 14:09:03 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 14:09:03 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 14:09:03 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initialized in BaseClass.22
+2025-12-13 14:09:03 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-13 14:09:03 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Test environment setup completed.
+2025-12-13 14:09:03 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 14:09:03 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 14:09:03 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 14:09:03 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initialized in BaseClass.21
+2025-12-13 14:09:03 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - test environment teardown
+2025-12-13 14:09:04 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 14:09:04 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 14:09:04 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - test environment teardown
+2025-12-13 14:09:04 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 14:09:05 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Element is displayed: Element with tag name: img
+2025-12-13 14:09:05 [TestNG-test-OrangeHRMTest-5] INFO  BaseClass - test environment teardown
+2025-12-13 14:09:14 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed: Element with text: Invalid credentials
+2025-12-13 14:09:14 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - test environment teardown
+2025-12-13 14:09:14 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed: Exception occurred while retrieving element description: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 143.0.3650.75, fedcm:accounts: true, goog:processID: 16376, ms:edgeOptions: {debuggerAddress: localhost:59469}, msedge: {msedgedriverVersion: 143.0.3650.80 (788579717f68..., userDataDir: C:\Users\ak398\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59469/devtoo..., se:cdpVersion: 143.0.3650.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-12-13 14:09:14 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - test environment teardown
+2025-12-13 14:10:07 [main] INFO  BaseClass - Configuration properties loaded successfully.
+2025-12-13 14:10:08 [TestNG-tests-1] INFO  BaseClass - Edge browser launched.
+2025-12-13 14:10:16 [TestNG-tests-1] INFO  BaseClass - Test environment setup completed.
+2025-12-13 14:10:16 [TestNG-tests-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 14:10:16 [TestNG-tests-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 14:10:16 [TestNG-tests-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 14:10:16 [TestNG-tests-1] INFO  BaseClass - ActionDriver initialized in BaseClass.22
+2025-12-13 14:10:16 [TestNG-tests-1] INFO  BaseClass - test environment teardown
+2025-12-13 14:10:17 [TestNG-tests-1] INFO  BaseClass - Edge browser launched.
+2025-12-13 14:10:25 [TestNG-tests-1] INFO  BaseClass - Test environment setup completed.
+2025-12-13 14:10:25 [TestNG-tests-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 14:10:25 [TestNG-tests-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 14:10:25 [TestNG-tests-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 14:10:25 [TestNG-tests-1] INFO  BaseClass - ActionDriver initialized in BaseClass.22
+2025-12-13 14:10:25 [TestNG-tests-1] INFO  BaseClass - test environment teardown
+2025-12-13 14:10:26 [TestNG-tests-1] INFO  BaseClass - Edge browser launched.
+2025-12-13 14:10:35 [TestNG-tests-1] INFO  BaseClass - Test environment setup completed.
+2025-12-13 14:10:35 [TestNG-tests-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 14:10:35 [TestNG-tests-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 14:10:35 [TestNG-tests-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 14:10:35 [TestNG-tests-1] INFO  BaseClass - ActionDriver initialized in BaseClass.22
+2025-12-13 14:10:35 [TestNG-tests-1] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 14:10:35 [TestNG-tests-1] INFO  ActionDriver - Typed value 'admin' in input field: Element with name: password
+2025-12-13 14:10:36 [TestNG-tests-1] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 14:10:37 [TestNG-tests-1] INFO  ActionDriver - Element is displayed: Element with text: Invalid credentials
+2025-12-13 14:10:37 [TestNG-tests-1] INFO  BaseClass - test environment teardown
+2025-12-13 14:10:38 [TestNG-tests-1] INFO  BaseClass - Edge browser launched.
+2025-12-13 14:10:46 [TestNG-tests-1] INFO  BaseClass - Test environment setup completed.
+2025-12-13 14:10:46 [TestNG-tests-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 14:10:46 [TestNG-tests-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 14:10:46 [TestNG-tests-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 14:10:46 [TestNG-tests-1] INFO  BaseClass - ActionDriver initialized in BaseClass.22
+2025-12-13 14:10:46 [TestNG-tests-1] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 14:10:46 [TestNG-tests-1] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-13 14:10:47 [TestNG-tests-1] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 14:10:47 [TestNG-tests-1] INFO  ActionDriver - Element is displayed: Element with text: Admin
+2025-12-13 14:10:48 [TestNG-tests-1] INFO  ActionDriver - Clicked on element: Element with text: manda user
+2025-12-13 14:10:49 [TestNG-tests-1] INFO  ActionDriver - Clicked on element: Element with class: oxd-userdropdown-link
+2025-12-13 14:10:54 [TestNG-tests-1] INFO  BaseClass - test environment teardown
+2025-12-13 14:10:55 [TestNG-tests-1] INFO  BaseClass - Edge browser launched.
+2025-12-13 14:11:03 [TestNG-tests-1] INFO  BaseClass - Test environment setup completed.
+2025-12-13 14:11:03 [TestNG-tests-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-13 14:11:03 [TestNG-tests-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-13 14:11:03 [TestNG-tests-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-13 14:11:03 [TestNG-tests-1] INFO  BaseClass - ActionDriver initialized in BaseClass.22
+2025-12-13 14:11:03 [TestNG-tests-1] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-13 14:11:03 [TestNG-tests-1] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-13 14:11:04 [TestNG-tests-1] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-13 14:11:04 [TestNG-tests-1] INFO  ActionDriver - Element is displayed: Element with tag name: img
+2025-12-13 14:11:05 [TestNG-tests-1] INFO  BaseClass - test environment teardown
+2025-12-23 21:18:00 [main] INFO  BaseClass - Configuration properties loaded successfully.
+2025-12-23 21:18:08 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Chrome browser launched.
+2025-12-23 21:18:08 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Chrome browser launched.
+2025-12-23 21:18:09 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Chrome browser launched.
+2025-12-23 21:18:10 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Chrome browser launched.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Test environment setup completed.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initialized in BaseClass.21
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Test environment setup completed.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initialized in BaseClass.24
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - test environment teardown
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Test environment setup completed.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized in BaseClass.23
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-23 21:18:16 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'admin' in input field: Element with name: password
+2025-12-23 21:18:16 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-23 21:18:16 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Test environment setup completed.
+2025-12-23 21:18:16 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-23 21:18:16 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-23 21:18:16 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-23 21:18:16 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initialized in BaseClass.22
+2025-12-23 21:18:17 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - test environment teardown
+2025-12-23 21:18:17 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed: Element with tag name: img
+2025-12-23 21:18:17 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - test environment teardown
+2025-12-23 21:18:17 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed: Element with text: Invalid credentials
+2025-12-23 21:18:18 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - test environment teardown
+2025-12-23 21:18:18 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Chrome browser launched.
+2025-12-23 21:18:26 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Test environment setup completed.
+2025-12-23 21:18:26 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-23 21:18:26 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-23 21:18:26 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-23 21:18:26 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized in BaseClass.23
+2025-12-23 21:18:26 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-23 21:18:27 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-23 21:18:27 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-23 21:18:28 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed: Element with text: Admin
+2025-12-23 21:18:28 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: Allen Staderini
+2025-12-23 21:18:31 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: Logout
+2025-12-23 21:18:36 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - test environment teardown
+2025-12-24 20:15:19 [main] INFO  BaseClass - Configuration properties loaded successfully.
+2025-12-24 20:15:26 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Chrome browser launched.
+2025-12-24 20:15:26 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Chrome browser launched.
+2025-12-24 20:15:27 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Chrome browser launched.
+2025-12-24 20:15:28 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Chrome browser launched.
+2025-12-24 20:15:33 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Test environment setup completed.
+2025-12-24 20:15:33 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-24 20:15:33 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-24 20:15:33 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-24 20:15:33 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initialized in BaseClass.26
+2025-12-24 20:15:33 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Test environment setup completed.
+2025-12-24 20:15:33 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-24 20:15:33 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-24 20:15:33 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-24 20:15:33 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initialized in BaseClass.24
+2025-12-24 20:15:33 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - test environment teardown
+2025-12-24 20:15:33 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-24 20:15:33 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-24 20:15:35 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-24 20:15:35 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Test environment setup completed.
+2025-12-24 20:15:35 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-24 20:15:35 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-24 20:15:35 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-24 20:15:35 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized in BaseClass.25
+2025-12-24 20:15:35 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-24 20:15:35 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed: Element with tag name: img
+2025-12-24 20:15:35 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'admin' in input field: Element with name: password
+2025-12-24 20:15:36 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-24 20:15:36 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - test environment teardown
+2025-12-24 20:15:36 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Test environment setup completed.
+2025-12-24 20:15:36 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-24 20:15:36 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-24 20:15:36 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-24 20:15:36 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initialized in BaseClass.23
+2025-12-24 20:15:36 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - test environment teardown
+2025-12-24 20:15:37 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed: Element with text: Invalid credentials
+2025-12-24 20:15:37 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - test environment teardown
+2025-12-24 20:15:38 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Chrome browser launched.
+2025-12-24 20:15:46 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Test environment setup completed.
+2025-12-24 20:15:46 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-24 20:15:46 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-24 20:15:46 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-24 20:15:46 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized in BaseClass.25
+2025-12-24 20:15:46 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-24 20:15:46 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-24 20:15:46 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-24 20:15:47 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed: Element with text: Admin
+2025-12-24 20:15:48 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: test user
+2025-12-24 20:15:49 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: Logout
+2025-12-24 20:15:54 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - test environment teardown
+2025-12-24 20:33:34 [main] INFO  BaseClass - Configuration properties loaded successfully.
+2025-12-24 20:33:37 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Chrome browser launched.
+2025-12-24 20:33:37 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Chrome browser launched.
+2025-12-24 20:33:37 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Chrome browser launched.
+2025-12-24 20:33:37 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Chrome browser launched.
+2025-12-24 20:33:43 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Test environment setup completed.
+2025-12-24 20:33:43 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-24 20:33:43 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-24 20:33:43 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-24 20:33:43 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized in BaseClass.24
+2025-12-24 20:33:43 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Test environment setup completed.
+2025-12-24 20:33:43 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-24 20:33:43 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-24 20:33:43 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-24 20:33:43 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initialized in BaseClass.23
+2025-12-24 20:33:43 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-24 20:33:43 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - test environment teardown
+2025-12-24 20:33:44 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'admin' in input field: Element with name: password
+2025-12-24 20:33:44 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-24 20:33:45 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed: Element with text: Invalid credentials
+2025-12-24 20:33:45 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Test environment setup completed.
+2025-12-24 20:33:45 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-24 20:33:45 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-24 20:33:45 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-24 20:33:45 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initialized in BaseClass.22
+2025-12-24 20:33:45 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Test environment setup completed.
+2025-12-24 20:33:45 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-24 20:33:45 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-24 20:33:45 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-24 20:33:45 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initialized in BaseClass.25
+2025-12-24 20:33:45 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - test environment teardown
+2025-12-24 20:33:46 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-24 20:33:46 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - test environment teardown
+2025-12-24 20:33:46 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-24 20:33:46 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-24 20:33:47 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Chrome browser launched.
+2025-12-24 20:33:47 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed: Element with tag name: img
+2025-12-24 20:33:48 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - test environment teardown
+2025-12-24 20:33:54 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Test environment setup completed.
+2025-12-24 20:33:54 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - Trace: Browser launched and configured.
+2025-12-24 20:33:54 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - Debug: Setup method executed.
+2025-12-24 20:33:54 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - Warn: Sample warning log for testing purposes.
+2025-12-24 20:33:54 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized in BaseClass.24
+2025-12-24 20:33:54 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'Admin' in input field: Element with name: username
+2025-12-24 20:33:55 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Typed value 'admin123' in input field: Element with name: password
+2025-12-24 20:33:55 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: Login
+2025-12-24 20:33:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed: Element with text: Admin
+2025-12-24 20:33:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with text: test user
+2025-12-24 20:33:58 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked on element: Element with class: oxd-userdropdown-link
+2025-12-24 20:34:03 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - test environment teardown

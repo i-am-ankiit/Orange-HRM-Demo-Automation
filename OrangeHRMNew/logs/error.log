@@ -1,0 +1,134 @@
+2025-12-07 21:18:54 [main] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-07 21:18:54 [main] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-07 21:20:45 [main] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-07 21:20:45 [main] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-07 21:20:58 [main] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-07 21:20:58 [main] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-07 21:23:04 [main] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-07 21:23:04 [main] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-07 21:38:34 [main] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-07 21:38:34 [main] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-07 22:36:09 [main] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-07 22:36:09 [main] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-07 22:36:19 [main] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-07 22:36:19 [main] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 12:46:50 [main] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 12:46:50 [main] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 12:47:00 [main] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 12:47:00 [main] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:19:41 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:19:41 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:19:41 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:19:41 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:19:42 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:19:42 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:19:42 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:19:42 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:35:28 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:35:28 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:35:28 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:35:28 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:35:29 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:35:40 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:35:40 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:36:52 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:36:52 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:36:52 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:36:52 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:36:54 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:36:54 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:36:54 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:36:54 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:37:05 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:37:05 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:38:39 [TestNG-tests-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:38:39 [TestNG-tests-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:38:48 [TestNG-tests-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:38:48 [TestNG-tests-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:38:57 [TestNG-tests-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:38:57 [TestNG-tests-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:39:08 [TestNG-tests-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:39:08 [TestNG-tests-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:39:25 [TestNG-tests-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:39:25 [TestNG-tests-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:41:36 [TestNG-test-OrangeHRMTest-5] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:41:36 [TestNG-test-OrangeHRMTest-5] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:41:36 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:41:36 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:41:45 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:41:45 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:41:56 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:41:56 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 13:41:59 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 13:41:59 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 14:09:01 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 14:09:01 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 14:09:01 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 14:09:01 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 14:09:02 [TestNG-test-OrangeHRMTest-5] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 14:09:02 [TestNG-test-OrangeHRMTest-5] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 14:09:03 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 14:09:03 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 14:09:03 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 14:09:03 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 14:09:14 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Exception while waiting for element to be visible: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 143.0.3650.75, fedcm:accounts: true, goog:processID: 16376, ms:edgeOptions: {debuggerAddress: localhost:59469}, msedge: {msedgedriverVersion: 143.0.3650.80 (788579717f68..., userDataDir: C:\Users\ak398\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59469/devtoo..., se:cdpVersion: 143.0.3650.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-12-13 14:09:14 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Exception while getting element description: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 143.0.3650.75, fedcm:accounts: true, goog:processID: 16376, ms:edgeOptions: {debuggerAddress: localhost:59469}, msedge: {msedgedriverVersion: 143.0.3650.80 (788579717f68..., userDataDir: C:\Users\ak398\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59469/devtoo..., se:cdpVersion: 143.0.3650.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-12-13 14:09:14 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element not displayed: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 143.0.3650.75, fedcm:accounts: true, goog:processID: 16376, ms:edgeOptions: {debuggerAddress: localhost:59469}, msedge: {msedgedriverVersion: 143.0.3650.80 (788579717f68..., userDataDir: C:\Users\ak398\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59469/devtoo..., se:cdpVersion: 143.0.3650.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-12-13 14:10:16 [TestNG-tests-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 14:10:16 [TestNG-tests-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 14:10:25 [TestNG-tests-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 14:10:25 [TestNG-tests-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 14:10:35 [TestNG-tests-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 14:10:35 [TestNG-tests-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 14:10:46 [TestNG-tests-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 14:10:46 [TestNG-tests-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-13 14:11:03 [TestNG-tests-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-13 14:11:03 [TestNG-tests-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-23 21:18:15 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-23 21:18:16 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-23 21:18:16 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-23 21:18:26 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-23 21:18:26 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-24 20:15:33 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-24 20:15:33 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-24 20:15:33 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-24 20:15:33 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-24 20:15:35 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-24 20:15:35 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-24 20:15:36 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-24 20:15:36 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-24 20:15:46 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-24 20:15:46 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-24 20:33:43 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-24 20:33:43 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-24 20:33:43 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-24 20:33:43 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-24 20:33:45 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-24 20:33:45 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-24 20:33:45 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-24 20:33:45 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-24 20:33:54 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-24 20:33:54 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
