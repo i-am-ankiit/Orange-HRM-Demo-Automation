@@ -22,7 +22,7 @@ public class HomePageTest extends BaseClass {
 	}
 	@Test
 	public void verifyOrangeHRMogo() throws Exception {
-		ExtentManager.startTest("verifyOrangeHRMogo", "Verify that the OrangeHRM logo is displayed on the home page after login.");
+		//ExtentManager.startTest("verifyOrangeHRMogo", "Verify that the OrangeHRM logo is displayed on the home page after login.");
 		ExtentManager.logStep("Logging in with valid credentials.");
 		loginPage.login("Admin", "admin123");
 		ExtentManager.logStep("Validating visibility of OrangeHRM logo on home page.");

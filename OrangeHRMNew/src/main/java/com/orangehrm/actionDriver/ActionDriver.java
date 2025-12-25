@@ -34,7 +34,7 @@ public class ActionDriver {
 			logger.info("Clicked on element: " + elementDescription);
 		} catch (Exception e) {
 			System.out.println("Exception while clicking on element: " + e.getMessage());
-			ExtentManager.logFailure(BaseClass.getDriver(), "Exception while clicking on element: " + elementDescription, elementDescription);
+			ExtentManager.logFailure(BaseClass.getDriver(), "Exception while clicking on element: " + elementDescription);
 			logger.error("Exception while clicking on element: " + by.toString() + " - " + e.getMessage());
 		}
 	}
@@ -74,14 +74,14 @@ public class ActionDriver {
 			String actualText = driver.findElement(by).getText();
 			if (actualText.equals(expectedText)) {
 				logger.info("Text matches: " + actualText);
-				ExtentManager.logStepWithScreenshot("Text matches: " + actualText, ExtentManager.takeScreenshot(driver, "TextMatch"));
+				ExtentManager.logPass(driver, "Text matches: " + actualText);
 			} else {
 				logger.info("Text does not match. Expected: " + expectedText + ", Actual: " + actualText);
 			}
 		} catch (Exception e) {
 			// TODO: handle exception
 			logger.error("Exception while comparing text: " + e.getMessage());
-			ExtentManager.logFailure(driver, "Exception while comparing text", ExtentManager.takeScreenshot(driver, "TextCompareError"));
+			ExtentManager.logFailure(driver, "Exception while comparing text");
 		}
 		return false;
 	}
@@ -92,11 +92,11 @@ public class ActionDriver {
 			waitForElementToBeVisible(by);
 			logger.info("Element is displayed: " + getElementDescription(by));
 			ExtentManager.logStep("Element is displayed: " + getElementDescription(by));
-			ExtentManager.logStepWithScreenshot("Element is displayed: " + getElementDescription(by), ExtentManager.takeScreenshot(driver, "ElementDisplayed"));
+			ExtentManager.logPass(driver, "Element is displayed: " + getElementDescription(by));
 			return driver.findElement(by).isDisplayed();
 		} catch (Exception e) {
 			logger.error("Element not displayed: " + e.getMessage());
-			ExtentManager.logFailure(driver, "Element not displayed: " + getElementDescription(by), ExtentManager.takeScreenshot(driver, "ElementNotDisplayed"));
+			ExtentManager.logFailure(driver, "Element not displayed: " + getElementDescription(by));
 			return false;
 		}
 	}

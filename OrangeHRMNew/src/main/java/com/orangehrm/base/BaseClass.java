@@ -37,7 +37,7 @@ public class BaseClass {
 		logger.info("Configuration properties loaded successfully.");
 		
 		//start the extent report
-		ExtentManager.getReporter();
+		//ExtentManager.getReporter(); -- moved to TestListener class
 	}
 
 	@BeforeMethod
@@ -120,7 +120,7 @@ public class BaseClass {
 		actionDriver.remove(); // Remove the ActionDriver instance for the current thread
 		// driver = null; // Reset driver to null after quitting
 		// actionDriver = null; // Reset actionDriver to null after quitting
-		ExtentManager.endTest();
+		//ExtentManager.endTest(); -- moved to TestListener class
 	}
 
 	// Driver getter method

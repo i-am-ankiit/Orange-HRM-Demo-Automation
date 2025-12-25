@@ -26,7 +26,7 @@ public class LoginPageTest extends BaseClass{
 
 	@Test
 		public void testvalidLogin() throws Exception {
-			ExtentManager.startTest("testvalidLogin", "Verify that a user can log in with valid credentials.");
+			//ExtentManager.startTest("testvalidLogin", "Verify that a user can log in with valid credentials.");
 			ExtentManager.logStep("Navigating to Login Page.");
 			loginPage.login("Admin", "admin123");
 			ExtentManager.logStep("Logging in with valid credentials.");
@@ -39,7 +39,7 @@ public class LoginPageTest extends BaseClass{
 		}
 	@Test
 	public void invalidLogintest() throws Exception {
-		ExtentManager.startTest("invalidLogintest", "Verify that an error message is displayed for invalid login attempts.");
+		//ExtentManager.startTest("invalidLogintest", "Verify that an error message is displayed for invalid login attempts.");
 		ExtentManager.logStep("Navigating to Login Page.");
 		loginPage.login("Admin", "admin");
 		String expectedErrorMessage = "Invalid credentials";

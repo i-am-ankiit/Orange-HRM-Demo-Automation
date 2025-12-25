@@ -9,7 +9,7 @@ import com.orangehrm.utilities.ExtentManager;
 public class DummyClass extends BaseClass {
 	@Test
 	public void dummyTest() {
-		ExtentManager.startTest("dummyTest", "This is a dummy test to verify the test setup.");
+		//ExtentManager.startTest("dummyTest", "This is a dummy test to verify the test setup.");
 		String title = getDriver().getTitle();
 		ExtentManager.logStep("Page title is: " + title);
 		assert title.equals("OrangeHRM"): "Title does not match!";
