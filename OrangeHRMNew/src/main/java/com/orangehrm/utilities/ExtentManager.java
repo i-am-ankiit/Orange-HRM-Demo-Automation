@@ -130,3 +130,4 @@ public class ExtentManager {
         driverMap.put(threadId, driver);
     }
 }
+//remove base64 methods as they are not used
