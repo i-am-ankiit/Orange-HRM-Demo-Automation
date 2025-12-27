@@ -16,8 +16,7 @@ public class TestListener implements org.testng.ITestListener {
 	@Override
 	public void onTestSuccess(org.testng.ITestResult result) {
 		String testName = result.getMethod().getMethodName();
-		ExtentManager.logPass(BaseClass.getDriver(), "Test Passed: " + testName);
-		
+		ExtentManager.logPass(BaseClass.getDriver(), "Test Passed: " + testName);	
 		System.out.println("Test Passed: " + result.getName());
 	}
 //Trigger when a test fails
