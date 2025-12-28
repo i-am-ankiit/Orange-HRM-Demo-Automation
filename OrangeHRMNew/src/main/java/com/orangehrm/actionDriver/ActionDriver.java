@@ -209,7 +209,7 @@ public class ActionDriver {
 	    }
 	    return str.substring(0, maxLength) + "...";
 	}
-	//Utility method to border an element for highlighting
+	//Utility method to border an element for highlighting 
 	public void applyborder(By by, String color) {
 		WebElement element = driver.findElement(by);
 		try {
