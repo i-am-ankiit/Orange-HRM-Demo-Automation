@@ -28,11 +28,13 @@ public class ActionDriver {
 	public void click(By by) {
 		String elementDescription = getElementDescription(by);
 		try {
+			applyborder(by, "green"); // Apply green border to highlight the element
 			waitForElementToBeClickable(by);
 			driver.findElement(by).click();
 			ExtentManager.logStep("Clicked on element: " + elementDescription);
 			logger.info("Clicked on element: " + elementDescription);
 		} catch (Exception e) {
+			applyborder(by, "red"); // Apply red border to indicate failure
 			System.out.println("Exception while clicking on element: " + e.getMessage());
 			ExtentManager.logFailure(BaseClass.getDriver(), "Exception while clicking on element: " + elementDescription);
 			logger.error("Exception while clicking on element: " + by.toString() + " - " + e.getMessage());
@@ -43,6 +45,7 @@ public class ActionDriver {
 	public void type(By by, String value) {
 		try {
 			waitForElementToBeVisible(by);
+			applyborder(by, "green"); // Apply blue border to highlight the input field
 //			driver.findElement(by).clear();
 //			driver.findElement(by).sendKeys(value);
 			WebElement element = driver.findElement(by);
@@ -51,6 +54,7 @@ public class ActionDriver {
 			logger.info("Typed value '" + value + "' in input field: " + getElementDescription(by));
 		} catch (Exception e) {
 			// TODO: handle exception
+			applyborder(by, "red"); // Apply red border to indicate failure
 			logger.error("Exception while typing in input field: " + e.getMessage());
 		}
 	}
@@ -58,9 +62,11 @@ public class ActionDriver {
 	// method to get text from element
 	public String getText(By by) {
 		try {
+			applyborder(by, "green"); // Apply green border to highlight the element
 			waitForElementToBeVisible(by);
 			return driver.findElement(by).getText();
 		} catch (Exception e) {
+			applyborder(by, "red"); // Apply red border to indicate failure
 			logger.info("Exception while getting text from element: " + e.getMessage());
 			return null;
 		}
@@ -70,15 +76,20 @@ public class ActionDriver {
 	// Method to compare expected and actual text
 	public boolean comparetext(By by, String expectedText) {
 		try {
+			applyborder(by, "green"); // Apply green border to highlight the element
 			waitForElementToBeVisible(by);
 			String actualText = driver.findElement(by).getText();
 			if (actualText.equals(expectedText)) {
 				logger.info("Text matches: " + actualText);
 				ExtentManager.logPass(driver, "Text matches: " + actualText);
 			} else {
+				applyborder(by, "red"); // Apply red border to indicate failure
 				logger.info("Text does not match. Expected: " + expectedText + ", Actual: " + actualText);
+				ExtentManager.logFailure(driver, "Text does not match. Expected: " + expectedText + ", Actual: " + actualText);
+				return false;
 			}
 		} catch (Exception e) {
+			
 			// TODO: handle exception
 			logger.error("Exception while comparing text: " + e.getMessage());
 			ExtentManager.logFailure(driver, "Exception while comparing text");
@@ -89,12 +100,14 @@ public class ActionDriver {
 	// method to check if element is displayed
 	public boolean isElementDisplayed(By by) {
 		try {
+			applyborder(by, "green"); // Apply green border to highlight the element
 			waitForElementToBeVisible(by);
 			logger.info("Element is displayed: " + getElementDescription(by));
 			ExtentManager.logStep("Element is displayed: " + getElementDescription(by));
 			ExtentManager.logPass(driver, "Element is displayed: " + getElementDescription(by));
 			return driver.findElement(by).isDisplayed();
 		} catch (Exception e) {
+			applyborder(by, "red"); // Apply red border to indicate failure
 			logger.error("Element not displayed: " + e.getMessage());
 			ExtentManager.logFailure(driver, "Element not displayed: " + getElementDescription(by));
 			return false;
@@ -120,9 +133,11 @@ public class ActionDriver {
 	//Scroll to element
 	public void scrollToElement(By by) {
 		try {
+			applyborder(by, "blue"); // Apply blue border to highlight the element
 			JavascriptExecutor js = (JavascriptExecutor) driver;
 			js.executeScript("arguments[0].scrollIntoView(true);", driver.findElement(by));
 		} catch (Exception e) {
+			applyborder(by, "red"); // Apply red border to indicate failure
 			// TODO: handle exception
 			logger.error("Exception while scrolling to element: " + e.getMessage());
 		}
@@ -193,6 +208,17 @@ public class ActionDriver {
 	        return str;
 	    }
 	    return str.substring(0, maxLength) + "...";
+	}
+	//Utility method to border an element for highlighting
+	public void applyborder(By by, String color) {
+		WebElement element = driver.findElement(by);
+		try {
+			JavascriptExecutor js = (JavascriptExecutor) driver;
+			js.executeScript("arguments[0].style.border='3px solid " + color + "'", driver.findElement(by));
+			logger.info("Applied border to element: " + getElementDescription(by));
+		} catch (Exception e) {
+			logger.warn("Exception while applying border to element: " + e.getMessage());
+	}
 	}
 	}
 

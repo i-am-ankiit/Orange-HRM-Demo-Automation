@@ -182,3 +182,13 @@ Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVer
 2025-12-25 19:45:44 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
 2025-12-25 19:45:55 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - Error: Sample error log for testing purposes.
 2025-12-25 19:45:55 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-28 21:23:33 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-28 21:23:33 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-28 21:23:35 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-28 21:23:35 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-28 21:23:35 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-28 21:23:35 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-28 21:23:35 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-28 21:23:35 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
+2025-12-28 21:23:46 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - Error: Sample error log for testing purposes.
+2025-12-28 21:23:46 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - Fatal: Sample fatal log for testing purposes.
