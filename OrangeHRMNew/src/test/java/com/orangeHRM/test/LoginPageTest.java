@@ -11,6 +11,7 @@ import com.orangehrm.pages.HomePage;
 import com.orangehrm.pages.Loginpage;
 import com.orangehrm.utilities.ExtentManager;
 
+
 public class LoginPageTest extends BaseClass{
 
 	private Loginpage loginPage;
@@ -24,8 +25,8 @@ public class LoginPageTest extends BaseClass{
 	    homePage = new HomePage(getDriver());
 	}
 
-	@Test
-		public void testvalidLogin() throws Exception {
+	@Test(dataProvider = "validLoginData", dataProviderClass = com.orangehrm.utilities.DataProviders.class)
+		public void testvalidLogin(String username, String password) throws Exception {
 			//ExtentManager.startTest("testvalidLogin", "Verify that a user can log in with valid credentials.");
 			ExtentManager.logStep("Navigating to Login Page.");
 			loginPage.login("Admin", "admin123");
@@ -37,8 +38,8 @@ public class LoginPageTest extends BaseClass{
 			staticWait();
 			
 		}
-	@Test
-	public void invalidLogintest() throws Exception {
+	@Test(dataProvider = "invalidLoginData", dataProviderClass = com.orangehrm.utilities.DataProviders.class)
+	public void invalidLogintest(String username, String password) throws Exception {
 		//ExtentManager.startTest("invalidLogintest", "Verify that an error message is displayed for invalid login attempts.");
 		ExtentManager.logStep("Navigating to Login Page.");
 		loginPage.login("Admin", "admin");

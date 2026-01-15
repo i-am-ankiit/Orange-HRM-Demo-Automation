@@ -20,8 +20,8 @@ public class HomePageTest extends BaseClass {
 		loginPage = new Loginpage(getDriver());
 		homePage = new HomePage(getDriver());
 	}
-	@Test
-	public void verifyOrangeHRMogo() throws Exception {
+	@Test(dataProvider = "validLoginData", dataProviderClass = com.orangehrm.utilities.DataProviders.class)
+	public void verifyOrangeHRMogo(String username, String password) throws Exception {
 		//ExtentManager.startTest("verifyOrangeHRMogo", "Verify that the OrangeHRM logo is displayed on the home page after login.");
 		ExtentManager.logStep("Logging in with valid credentials.");
 		loginPage.login("Admin", "admin123");
